@@ -15,7 +15,3 @@ Twitch: https://www.twitch.tv/tralty
 Twitter/X: https://twitter.com/TheRealTralty
 
 Instagram: https://www.instagram.com/therealtralty/
-
-
-[<img src="https://www.bisecthosting.com/images/CF/ADVENTURE_OF_TECH_II/BH_ADVENTURE_OF_TECH_II_Promo.webp">](https://bisecthosting.com/gio)
-If you'd like to support me and the development of Adventure of Tech II and my other modpacks, I recommend trying out BisectHosting. Use code 'gio' to get 25% off your first month of a gaming server for new customers. They offer 24/7 support and lightning-fast response times, ensuring you're in great hands and providing exceptional assistance for all your gaming needs.
